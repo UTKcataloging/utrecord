@@ -21,24 +21,27 @@
 
 <titleInfo type="alternative"><title>{{cells['title_alternative'].value}}</title></titleInfo>
 
-{{if(isBlank(cells['dateIssued'].value), '', '<originInfo><dateIssued>' + cells['dateIssued'].value + '</dateIssued><dateIssued>' + cells['dateIssued'].value + '</dateIssued><dateIssued>' + cells['dateIssued_edtf'].value + '</dateIssued><dateIssued>' + cells['dateIssued_edtf'].value + '</dateIssued>' + if(isBlank(cells['publisher'].value), '', '<publisher>' + cells['creator'].value + '</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+{{if(isBlank(cells['dateIssued'].value), '', '<originInfo><dateIssued>' + cells['dateIssued'].value + '</dateIssued><dateIssued encoding="edtf">' + cells['dateissued_EDTF'].value + '</dateIssued>' + if(isBlank(cells['publisher'].value), '', '<publisher>' + cells['publisher'].value + '</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place>') + '</originInfo>')}}
 
 <abstract>{{cells["abstract"].value}}</abstract>
 
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells["extent"].value}}</extent></physicalDescription>
 
-{{if(isBlank(cells['subject_topic'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_URI'].value + '"><topic>' + cells['subject_topic'].value + '</topic></subject>')}}
+{{if(isBlank(cells['note'].value), '', '<note>' + cells['note'].value + '</note>')}}
 
-{{if(isBlank(cells['subject_topic_2'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_2_URI'].value + '"><topic>' + cells['subject_topic_2'].value + '</topic></subject>')}}
+{{if(isBlank(cells['frequencyInfo'].value), '', '<note>' + cells['frequencyInfo'].value + '</note>')}}
 
-{{if(isBlank(cells['subject_topic_3'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_3_URI'].value + '"><topic>' + cells['subject_topic_3'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_URI'].value + '"><topic>' + cells['subject'].value + '</topic></subject>')}}
 
-{{if(isBlank(cells['subject_topic_4'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_4_URI'].value + '"><topic>' + cells['subject_topic_4'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject2'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject2_URI'].value + '"><topic>' + cells['subject2'].value + '</topic></subject>')}}
 
-{{if(isBlank(cells['subject_topic_5'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_5_URI'].value + '"><topic>' + cells['subject_topic_5'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject3'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject3_URI'].value + '"><topic>' + cells['subject3'].value + '</topic></subject>')}}
 
-{{if(isBlank(cells['subject_topic_6'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_6_URI'].value + '"><topic>' + cells['subject_topic_6'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject4'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject4_URI'].value + '"><topic>' + cells['subject4'].value + '</topic></subject>')}}
+
+{{if(isBlank(cells['subject5'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject5_URI'].value + '"><topic>' + cells['subject5'].value + '</topic></subject>')}}
+
 
 {{if(isBlank(cells['subject_name'].value), '', '<subject authority="naf" valueURI="' + cells['subject_name_URI'].value + '"><name><namePart>' + cells['subject_name'].value + '</namePart></name></subject>')}}
 
@@ -46,10 +49,16 @@
 
 {{if(isBlank(cells['subject_name_3'].value), '', '<subject authority="naf" valueURI="' + cells['subject_name_3_URI'].value + '"><name><namePart>' + cells['subject_name_3'].value + '</namePart></name></subject>')}}
 
-<subject authority="naf" valueURI="{{cells['subject_geographic_URI'].value}}"><geographic>{{cells['subject_geographic'].value}}</geographic></subject>
+{{if(isBlank(cells['subject_name_4'].value), '', '<subject authority="naf" valueURI="' + cells['subject_name_4_URI'].value + '"><name><namePart>' + cells['subject_name_4'].value + '</namePart></name></subject>')}}
 
-<typeOfResource>{{cell['typeOfResource'].value}}</typeOfResource>
-<typeOfResource>{{cell['typeOfResource2'].value}}</typeOfResource>
+{{if(isBlank(cells['subject_name_5'].value), '', '<subject authority="naf" valueURI="' + cells['subject_name_5_URI'].value + '"><name><namePart>' + cells['subject_name_5'].value + '</namePart></name></subject>')}}
+
+{{if(isBlank(cells['subject_name_6'].value), '', '<subject authority="naf" valueURI="' + cells['subject_name_6_URI'].value + '"><name><namePart>' + cells['subject_name_6'].value + '</namePart></name></subject>')}}
+
+<subject authority="naf" valueURI="{{cells['subject_geography_URI'].value}}"><geographic>{{cells['subject_geographic'].value}}</geographic></subject>
+
+<typeOfResource>{{cells['typeOfResource'].value}}</typeOfResource>
+{{if(isBlank(cells['typeOfResource2'].value), '', '<typeOfResource>' + cells['typeOfResource2'].value + '</typeOfResource>')}}
 
 <classification authority="lcc">{{cells['classification'].value}}</classification>
 
