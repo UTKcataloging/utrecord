@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ut-record_v32SN2_1929-02</identifier>
+   <titleInfo>
+      <title>New buildings number; dedication of buildings at Martin and Memphis</title>
+   </titleInfo>
+   <titleInfo supplied="yes">
+      <title>University of Tennessee record, volume 32, special number </title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>University of Tennessee record, Februray 1929</title>
+   </titleInfo>
+   <originInfo>
+      <dateIssued>February 1929</dateIssued>
+      <dateIssued encoding="edtf">1929-02</dateIssued>
+      <publisher>University of Tennessee Press</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <abstract>This publication contains information about new buildings on Martin and Memphis campuses between 1929-1930. it includes dedication exercises, addresses, and building information.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI=""/>
+      <extent>63 pages</extent>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85127518">
+      <topic>State universities and colleges</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85141097 ">
+      <topic>College buildings</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79060965-781">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <classification authority="lcc">LD5286.R3</classification>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Record</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction" xlink:href=""/>
+</mods>
