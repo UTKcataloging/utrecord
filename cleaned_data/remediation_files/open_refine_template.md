@@ -55,7 +55,7 @@
 
 {{if(isBlank(cells['subject_name_6'].value), '', '<subject authority="naf" valueURI="' + cells['subject_name_6_URI'].value + '"><name><namePart>' + cells['subject_name_6'].value + '</namePart></name></subject>')}}
 
-<subject authority="naf" valueURI="{{cells['subject_geography_URI'].value}}"><geographic>{{cells['subject_geographic'].value}}</geographic></subject>
+<subject authority="naf" valueURI="{{cells['subject_geographic_URI'].value}}"><geographic>{{cells['subject_geographic'].value}}</geographic></subject>
 
 <typeOfResource>{{cells['typeOfResource'].value}}</typeOfResource>
 {{if(isBlank(cells['typeOfResource2'].value), '', '<typeOfResource>' + cells['typeOfResource2'].value + '</typeOfResource>')}}
