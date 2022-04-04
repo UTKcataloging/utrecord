@@ -16,7 +16,7 @@
    </titleInfo>
    <originInfo>
       <dateIssued>1906</dateIssued>
-      <dateIssued encoding="edtf">1906-01-01T01:00Z</dateIssued>
+      <dateIssued encoding="edtf">1906-01-01</dateIssued>
       <publisher>University of Tennessee</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
@@ -24,8 +24,8 @@
    </originInfo>
    <abstract>Summer School of the South issue that contains university information and photos, list of instructors, courses of study, and advertisements. The fifth session of the Summer School of the South took place between June 19 and July 27, 1906.</abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals </form>
-      <extent>44</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <extent>44 pages</extent>
    </physicalDescription>
    <note>Bi-monthly</note>
    <subject authority="lcsh"

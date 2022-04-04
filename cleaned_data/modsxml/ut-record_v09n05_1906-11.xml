@@ -16,7 +16,7 @@
    </titleInfo>
    <originInfo>
       <dateIssued>1906</dateIssued>
-      <dateIssued encoding="edtf">1906-01-01T01:00Z</dateIssued>
+      <dateIssued encoding="edtf">1906-01-01</dateIssued>
       <publisher>University of Tennessee Press</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
@@ -24,8 +24,8 @@
    </originInfo>
    <abstract>This publication contains information about the 1906 University of Tennessee commencement and University Day activities, including the alumni banquet address and toasts, senior activities, graduating excercises, literary society celebrations, and a complete record of graduates for the 1906 academic session. The 1906 University Day address was delivered by University President Brown Ayres. </abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026661">periodicals </form>
-      <extent>61</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026661">periodicals</form>
+      <extent>61 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85127518">

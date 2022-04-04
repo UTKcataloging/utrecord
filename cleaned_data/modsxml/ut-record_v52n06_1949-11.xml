@@ -16,7 +16,7 @@
    </titleInfo>
    <originInfo>
       <dateIssued>November 1949</dateIssued>
-      <dateIssued encoding="edtf">1949-11-01T01:00Z</dateIssued>
+      <dateIssued encoding="edtf">1949-11-01</dateIssued>
       <publisher>University of Tennessee</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
@@ -24,8 +24,8 @@
    </originInfo>
    <abstract>This issue contains promotional information for prospective students about potential courses of study, recreation at the university, housing on campus, and admissions.</abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026665">periodicals </form>
-      <extent>50</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026665">periodicals</form>
+      <extent>50 pages</extent>
    </physicalDescription>
    <note>Bi-monthly</note>
    <subject authority="lcsh"

@@ -16,7 +16,7 @@
    </titleInfo>
    <originInfo>
       <dateIssued>June 1906</dateIssued>
-      <dateIssued encoding="edtf">1906-06-01T01:00Z</dateIssued>
+      <dateIssued encoding="edtf">1906-06-01</dateIssued>
       <publisher>University of Tennessee Press</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
@@ -24,8 +24,8 @@
    </originInfo>
    <abstract>Law Department announcement issue for 1906-1907 and catalog for 1905-1906 containing informations on admissions, faculty, curriculum, and catalog of students.</abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026660">periodicals </form>
-      <extent>10</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026660">periodicals</form>
+      <extent>10 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85127518">

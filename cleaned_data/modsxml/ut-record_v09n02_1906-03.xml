@@ -16,7 +16,7 @@
    </titleInfo>
    <originInfo>
       <dateIssued>March 1906</dateIssued>
-      <dateIssued encoding="edtf">1906-03-01T01:00Z</dateIssued>
+      <dateIssued encoding="edtf">1906-03-01</dateIssued>
       <publisher>University of Tennessee</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
@@ -24,8 +24,8 @@
    </originInfo>
    <abstract>This publication contains the register from 1905-1906 and announcements for 1906-1907 for the University of Tennessee. It includes the Board of Trustees members, general information about admission, faculty members, the curriculum, session calendar, catalog of students, and index. </abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026658">periodicals </form>
-      <extent>146</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026658">periodicals</form>
+      <extent>146 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85127518">

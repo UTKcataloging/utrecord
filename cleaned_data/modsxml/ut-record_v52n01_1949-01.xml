@@ -16,7 +16,7 @@
    </titleInfo>
    <originInfo>
       <dateIssued>January 1949</dateIssued>
-      <dateIssued encoding="edtf">1949-01-01T01:00Z</dateIssued>
+      <dateIssued encoding="edtf">1949-01-01</dateIssued>
       <publisher>University of Tennessee</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
@@ -24,8 +24,8 @@
    </originInfo>
    <abstract>This issue contains the biennial report of the University of Tennessee Board of Trustees for 1946-1948. </abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026664">periodicals </form>
-      <extent>69</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026664">periodicals</form>
+      <extent>69 pages</extent>
    </physicalDescription>
    <note>Bi-monthly</note>
    <subject authority="lcsh"

@@ -16,7 +16,7 @@
    </titleInfo>
    <originInfo>
       <dateIssued> May 1906</dateIssued>
-      <dateIssued encoding="edtf">1906-05-01T01:00Z</dateIssued>
+      <dateIssued encoding="edtf">1906-05-01</dateIssued>
       <publisher>University of Tennessee Press</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
@@ -24,8 +24,8 @@
    </originInfo>
    <abstract>This publication contians information about the College of Engineering at the University of Tennessee. It includes the faculty list, courses, and general information about the university. </abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026659">periodicals </form>
-      <extent>44</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026659">periodicals</form>
+      <extent>44 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85127518">

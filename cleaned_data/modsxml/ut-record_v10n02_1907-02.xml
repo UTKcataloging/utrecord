@@ -16,7 +16,7 @@
    </titleInfo>
    <originInfo>
       <dateIssued>February 1907</dateIssued>
-      <dateIssued encoding="edtf">1907-02-01T01:00Z</dateIssued>
+      <dateIssued encoding="edtf">1907-02-01</dateIssued>
       <publisher>University of Tennessee Press</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
@@ -24,8 +24,8 @@
    </originInfo>
    <abstract>This publication contains the report of the special committee on the relationship between the university and the state.</abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026662">periodicals </form>
-      <extent>62</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026662">periodicals</form>
+      <extent>62 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85127518">
