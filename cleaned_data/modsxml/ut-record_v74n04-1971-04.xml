@@ -4,7 +4,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">ut-record_v74n04-1971-04</identifier>
+   <identifier type="local">ut-record_v74n04-1971-07</identifier>
    <titleInfo>
       <title>Emphasis for the 70's: the University of Tennessee record volume 74, issue no. 4</title>
    </titleInfo>
@@ -12,11 +12,11 @@
       <title>University of Tennessee record, volume 74, number 4</title>
    </titleInfo>
    <titleInfo type="alternative">
-      <title>University of Tennessee record, April 1971</title>
+      <title>University of Tennessee record, July 1971</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>1971-04</dateIssued>
-      <dateIssued encoding="edtf">1971-04-01</dateIssued>
+      <dateIssued>1971-07</dateIssued>
+      <dateIssued encoding="edtf">1971-07</dateIssued>
       <publisher>University of Tennessee, Knoxville</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
