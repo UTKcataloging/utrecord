@@ -13,6 +13,7 @@
 
 ```
 <mods>
+<identifier type="pid">{{cells["PID"].value}}</identifier>
 <identifier type="local">{{cells["identifier"].value}}</identifier>
 
 {{if(isBlank(cells['title'].value), '', '<titleInfo><title>' + cells["title"].value + '</title></titleInfo>')}} 
