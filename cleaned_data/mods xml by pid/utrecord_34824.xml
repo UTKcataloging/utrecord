@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">utrecord_34824</identifier>
+   <identifier type="local">ut-record_v70n03_1967-05</identifier>
+   <titleInfo>
+      <title>The University of Tennessee; catalog of faculty and staff 1966. 1967</title>
+   </titleInfo>
+   <titleInfo supplied="yes">
+      <title>University of Tennessee record, volume 70, number 3</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>University of Tennessee record, 1966-1967 catalog of faculty and staff</title>
+   </titleInfo>
+   <originInfo>
+      <dateIssued>May 1967</dateIssued>
+      <dateIssued encoding="edtf">1967-05</dateIssued>
+   </originInfo>
+   <abstract>This publication contains a catalog of faculty and staff at the University of Tennessee for 1966-1967. It includes the board of trustees members and faculty and staff at Knoxville, Memphis, and Martin. </abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <extent>126 pages</extent>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85127518">
+      <topic>State universities and colleges</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85028378">
+      <topic>College Teachers</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85141093">
+      <topic>Universities and colleges--Alumni and alumnae</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003887">
+      <name>
+         <namePart>University of Tennessee (Knoxville campus)</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003882">
+      <name>
+         <namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003890">
+      <name>
+         <namePart>University of Tennessee Center for Health Sciences</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79060965-781">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <classification authority="lcc">LD5286.R3</classification>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Record</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
