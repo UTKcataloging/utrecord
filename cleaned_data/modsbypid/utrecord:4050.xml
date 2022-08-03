@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">utrecord:4050</identifier>
+   <identifier type="local">ut-record_v06n01_1903-01</identifier>
+   <titleInfo>
+      <title>University of Tennessee record: January 1903 (I)</title>
+   </titleInfo>
+   <titleInfo supplied="yes">
+      <title>University of Tennessee record, volume 6, number 1</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>University of Tennessee record, January 1903</title>
+   </titleInfo>
+   <originInfo>
+      <dateIssued>January 1903</dateIssued>
+      <dateIssued encoding="edtf">1903-01</dateIssued>
+      <publisher>University of Tennessee Press</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <abstract>This publication contains information about the department of agriculture and agricultural education methods at the University of Tennessee. Several areas of agricultural research focus are described, including animal husbandry and horticultural work. The University's new rose garden is highlighted at the end of the issue. This publication begins with addresses on "The Farmer's School" and "A Day in the Farmer's School" by University of Tennessee department of agriculture professor Andrew M. Soule.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <extent>65 pages</extent>
+   </physicalDescription>
+   <note>Published bi-monthly. Subscription price 50 cents.</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85127518">
+      <topic>State universities and colleges</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85002415">
+      <topic>Agriculture</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85141093">
+      <topic>Universities and colleges--Alumni and alumnae</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003887">
+      <name>
+         <namePart>University of Tennessee (Knoxville campus)</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no92022750">
+      <name>
+         <namePart>University of Tennessee (Knoxville campus). Division of Extension</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79060965-781">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <classification authority="lcc">LD5286.R3</classification>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Record</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
