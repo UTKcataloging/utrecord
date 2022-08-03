@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">utrecord:47512</identifier>
+   <identifier type="local">ut-record_v47n05_1944-09</identifier>
+   <titleInfo>
+      <title>Commencements, 1943-44: colleges at Knoxville, colleges at Memphis, the summer session, the junior college</title>
+   </titleInfo>
+   <titleInfo supplied="yes">
+      <title>University of Tennessee record, volume 47, number 5</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>University of Tennessee record, September 1944</title>
+   </titleInfo>
+   <originInfo>
+      <dateIssued>September 1944</dateIssued>
+      <dateIssued encoding="edtf">1944-09</dateIssued>
+      <publisher>University of Tennessee</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <abstract>This publication contains information about the fall/winter 1943 and spring/summer 1944 University of Tennessee commencement activities, senior events, baccalaureate sermon, and a complete record of 1943 and 1944 graduates of the Colleges at Knoxville, Memphis, and Martin, and the summer session.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <extent>315 pages</extent>
+   </physicalDescription>
+   <note>Published bi-monthly by the University of Tennessee and entered at the post office in Knoxville as second-class mail matter. </note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85127518">
+      <topic>State universities and colleges</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85130440">
+      <topic>Summer schools</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85141093">
+      <topic>Universities and colleges--Alumni and alumnae</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh00009998">
+      <topic>Commencement ceremonies</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003887">
+      <name>
+         <namePart>University of Tennessee (Knoxville campus)</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n93800403">
+      <name>
+         <namePart>University of Tennessee, Memphis. College of Medicine</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003882">
+      <name>
+         <namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79060965-781">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <classification authority="lcc">LD5286.R3</classification>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Record</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
